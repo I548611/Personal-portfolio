@@ -1,0 +1,11 @@
+[
+  {
+    "IsSelectedSimModel": false,
+    "Label": "SimView_1",
+    "Icon": "diagram-module",
+    "IoContainerModel": {
+      "SimulationItemModelList": []
+    },
+    "Version": "20.00.00.00"
+  }
+]

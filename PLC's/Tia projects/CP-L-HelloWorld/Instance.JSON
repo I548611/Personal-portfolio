@@ -1,0 +1,60 @@
+[
+  {
+    "PlcName": "plc",
+    "InstanceName": "Instance_1",
+    "InstanceGuid": "3f8f450d-979b-4094-b536-008078018679",
+    "PlcType": 4,
+    "PlcId": 0,
+    "WasPoweredOnWhenSaved": true,
+    "IsUsingRuntimeApi": false,
+    "IsConfigured": true,
+    "TimeScalingValue": 1.0,
+    "Version": "20.00.00.00",
+    "Vplc": {
+      "$type": "plcsim.Vplc.VplcApi.VplcApiPlc, plcsim",
+      "PlcName": "plc",
+      "PlcType": 4,
+      "PlcID": 0,
+      "IsConfigured": true,
+      "CycleTimeoutMode": 1,
+      "CycleTimeoutTime": 150,
+      "VplcInputOutput": {
+        "$type": "plcsim.Vplc.VplcApi.VplcApiInputOutput, plcsim"
+      },
+      "PlcIsInWorkspace": true
+    },
+    "LicenseSelection": {
+      "SelectedLicense": 0
+    },
+    "PlcIsInWorkspace": true
+  },
+  {
+    "PlcName": "Unconfigured PLC",
+    "InstanceName": "Instance_2",
+    "InstanceGuid": "9d07045c-b92d-47ff-a630-b3fc34058c26",
+    "PlcType": 4,
+    "PlcId": 1,
+    "WasPoweredOnWhenSaved": true,
+    "IsUsingRuntimeApi": false,
+    "IsConfigured": false,
+    "TimeScalingValue": 1.0,
+    "Version": "20.00.00.00",
+    "Vplc": {
+      "$type": "plcsim.Vplc.VplcApi.VplcApiPlc, plcsim",
+      "PlcName": "Unconfigured PLC",
+      "PlcType": 4,
+      "PlcID": 0,
+      "IsConfigured": false,
+      "CycleTimeoutMode": 1,
+      "CycleTimeoutTime": 150,
+      "VplcInputOutput": {
+        "$type": "plcsim.Vplc.VplcApi.VplcApiInputOutput, plcsim"
+      },
+      "PlcIsInWorkspace": true
+    },
+    "LicenseSelection": {
+      "SelectedLicense": 0
+    },
+    "PlcIsInWorkspace": true
+  }
+]
